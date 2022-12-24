@@ -1,3 +1,6 @@
+![alt text](https://github.com/Zeltuv/zMounts/blob/main/banner.png?raw=true)
+
+
 # 🐎 zMounts - Simple Horse Mounts Plugin
 
 zMounts is a simple plugin that allows you summoning one time usage mounts.
