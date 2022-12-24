@@ -1,0 +1,7 @@
+name: zMounts
+author: Zeltuv
+version: 1.0
+main: tr.zeltuv.zmounts.MountPlugin
+commands:
+  mount:
+    aliases: [mn,mz,ms]

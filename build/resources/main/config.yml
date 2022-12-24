@@ -1,0 +1,12 @@
+command-permission: mount.use.{mount}
+
+plugin-prefix: "&8[&4&lz&6&lMounts&8] "
+
+help:
+ - "&4&lz&6&lMounts"
+ - "&7- &7&lNormal&7: /Mount normal or /mn"
+ - "&7- &2&lZombie&7: /Mount zombie or /mz"
+ - "&7- &f&lSkeleton&7: /Mount skeleton or /ms"
+
+no-permission: "&cYou do not have the permission to execute this command."
+spawned-horse: "&cYou spawned a {type} horse."
