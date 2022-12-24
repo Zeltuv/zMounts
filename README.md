@@ -1,4 +1,4 @@
-![alt text](https://github.com/Zeltuv/zMounts/blob/main/banner.png?raw=true)
+![ZMounts](https://github.com/Zeltuv/zMounts/blob/main/banner.png?raw=true)
 
 
 # 🐎 zMounts - Simple Horse Mounts Plugin
